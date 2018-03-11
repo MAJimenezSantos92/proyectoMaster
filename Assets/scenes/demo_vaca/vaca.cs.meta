@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f62cb759dc6797d438da73ddb97ec3df
+timeCreated: 1492370235
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - defecasfx: {fileID: 8300000, guid: 196af7275792e364eaa6d3d79067f075, type: 3}
+  - lechesfx: {fileID: 8300000, guid: 3a6db266c94bf8a4e9fa5eb0e597656c, type: 3}
+  - moscasfx: {fileID: 8300000, guid: ec51f6e7cd709824faa0fbf8a5f6c36f, type: 3}
+  - comidasfx: {fileID: 8300000, guid: 0b667b1f6d1b7f94f9c02931dcef30cd, type: 3}
+  - escanerfx: {fileID: 8300000, guid: aadd99a73dff3ac4380b2428e5e29996, type: 3}
+  - vacafx: {fileID: 8300000, guid: 0ff56d7daf1b013438d9cf06fe9e8eb9, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

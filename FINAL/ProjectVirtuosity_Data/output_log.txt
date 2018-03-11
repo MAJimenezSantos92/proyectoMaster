@@ -1,0 +1,156 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   NVIDIA
+    VRAM:     6084 MB
+    Driver:   22.21.13.8189
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\MotoresVirtuales\MQTT_MASTER_FINAL\proyectoMaster\FINAL\ProjectVirtuosity_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\MotoresVirtuales\MQTT_MASTER_FINAL\proyectoMaster\FINAL\ProjectVirtuosity_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\MotoresVirtuales\MQTT_MASTER_FINAL\proyectoMaster\FINAL\ProjectVirtuosity_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\MotoresVirtuales\MQTT_MASTER_FINAL\proyectoMaster\FINAL\ProjectVirtuosity_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\MotoresVirtuales\MQTT_MASTER_FINAL\proyectoMaster\FINAL\ProjectVirtuosity_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\MotoresVirtuales\MQTT_MASTER_FINAL\proyectoMaster\FINAL\ProjectVirtuosity_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\MotoresVirtuales\MQTT_MASTER_FINAL\proyectoMaster\FINAL\ProjectVirtuosity_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\MotoresVirtuales\MQTT_MASTER_FINAL\proyectoMaster\FINAL\ProjectVirtuosity_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\MotoresVirtuales\MQTT_MASTER_FINAL\proyectoMaster\FINAL\ProjectVirtuosity_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\MotoresVirtuales\MQTT_MASTER_FINAL\proyectoMaster\FINAL\ProjectVirtuosity_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\MotoresVirtuales\MQTT_MASTER_FINAL\proyectoMaster\FINAL\ProjectVirtuosity_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\MotoresVirtuales\MQTT_MASTER_FINAL\proyectoMaster\FINAL\ProjectVirtuosity_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\MotoresVirtuales\MQTT_MASTER_FINAL\proyectoMaster\FINAL\ProjectVirtuosity_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\MotoresVirtuales\MQTT_MASTER_FINAL\proyectoMaster\FINAL\ProjectVirtuosity_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\MotoresVirtuales\MQTT_MASTER_FINAL\proyectoMaster\FINAL\ProjectVirtuosity_Data\Managed\sharedRuntime.dll (this message is harmless)
+Loading D:\MotoresVirtuales\MQTT_MASTER_FINAL\proyectoMaster\FINAL\ProjectVirtuosity_Data\Managed\sharedRuntime.dll into Unity Child Domain
+Platform assembly: D:\MotoresVirtuales\MQTT_MASTER_FINAL\proyectoMaster\FINAL\ProjectVirtuosity_Data\Managed\urecordRuntime.dll (this message is harmless)
+Loading D:\MotoresVirtuales\MQTT_MASTER_FINAL\proyectoMaster\FINAL\ProjectVirtuosity_Data\Managed\urecordRuntime.dll into Unity Child Domain
+- Completed reload, in  0.020 seconds
+Platform assembly: D:\MotoresVirtuales\MQTT_MASTER_FINAL\proyectoMaster\FINAL\ProjectVirtuosity_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\MotoresVirtuales\MQTT_MASTER_FINAL\proyectoMaster\FINAL\ProjectVirtuosity_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.867554 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2aa8 -> priority: 1 
+  Thread -> id: 2028 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.889772 ms
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 4248.
+Total: 0.885776 ms (FindLiveObjects: 0.241333 ms CreateObjectMapping: 0.057777 ms MarkObjects: 0.552888 ms  DeleteObjects: 0.032888 ms)
+
+Received: PREV
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PREV
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Received: digivice1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+digivice1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Received: cuadro1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+cuadro1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Received: digivice1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+digivice1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Received: cuadro1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+cuadro1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CAMBIO A LIBRO 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CAMBIO A LIBRO 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Received: fire1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+fire1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Received: valve1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+valve1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Received: fire1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+fire1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Received: valve1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+valve1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Received: book1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+book1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Entro a Subscripcion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CAMBIO A LIBRO 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Received: book1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+book1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Entro a Subscripcion
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CAMBIO A LIBRO 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

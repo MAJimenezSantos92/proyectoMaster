@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scenes\demo_vaca\vaca.cs">
+    <Files>
+      <File FileName="Assets\MQTT\scripts\test\mqttTest.cs" Line="1" Column="1" />
+      <File FileName="Assets\MQTT\scripts\MqttClient.cs" Line="1" Column="1" />
+      <File FileName="Assets\MQTT\scripts\test\cofreAparece.cs" Line="1" Column="1" />
+      <File FileName="Assets\MQTT\scripts\test\PickupObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\MQTT\scripts\test\openDoor.cs" Line="1" Column="1" />
+      <File FileName="Assets\MQTT\scripts\test\tvIR1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\AICharacterControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\MQTT\scripts\test\burnBox.cs" Line="1" Column="1" />
+      <File FileName="Assets\scenes\demo_museo\scripts\triggerBook1.cs" Line="1" Column="1" />
+      <File FileName="Assets\scenes\menu.cs" Line="1" Column="1" />
+      <File FileName="Assets\scenes\demo_vaca\vaca.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
